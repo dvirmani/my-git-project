@@ -4,3 +4,6 @@ print("Hi from another Dev")
 
 def hi_there():
     print("Hi there")
+    
+def hi_there():
+    print("Hi there")
